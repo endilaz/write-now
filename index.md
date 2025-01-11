@@ -1,5 +1,15 @@
 ---
 title: Write Now!
 ---
-Start writing, and don't stop!
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Write Now!</title>
+</head>
+<body>
+    <h1>Welcome to Write Now!</h1>
+</body>
+</html>
