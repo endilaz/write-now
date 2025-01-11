@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Write Now!
 ---
+Start writing, and don't stop!
 
